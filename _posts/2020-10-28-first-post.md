@@ -7,11 +7,12 @@ categories: jekyll update
 게다가 Jekyll은 code snippets(코드 자동완성)기능을 제공한다고 해요.
 
 아래는 Markdown을 이용하여 Python code block을 만들어 봤어요. 
-​```python
+
+```python
 def print_hi(name):
   print("hello", name)
 print_hi('Tom')
-​```
+```
 
 기본적으로 마크다운 문서이다보니 마크다운 문법 + 마크업 문법을 사용하여 편하게 글을 쓸 수 있네요.
 
