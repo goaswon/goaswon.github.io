@@ -16,9 +16,8 @@ print_hi('Tom')
 기본적으로 마크다운 문서이다보니 마크다운 문법 + 마크업 문법을 사용하여 편하게 글을 쓸 수 있네요.
 
 
->Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have >questions, you can ask them on [Jekyll Talk][jekyll-talk].
+>Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have >questions, you can ask them on [Jekyll Talk][jekyll-talk].<br>
 >
->
->[jekyll-docs]: https://jekyllrb.com/docs/home
->[jekyll-gh]:   https://github.com/jekyll/jekyll
+>[jekyll-docs]: https://jekyllrb.com/docs/home<br>
+>[jekyll-gh]:   https://github.com/jekyll/jekyll<br>
 >[jekyll-talk]: https://talk.jekyllrb.com/
