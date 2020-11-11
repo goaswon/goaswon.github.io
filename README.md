@@ -92,7 +92,7 @@ Birth rate와 economy간에는 음의 상관관계가 있는것이 확인 된다
 
 대륙별 행복도를 다른 방식으로 표현해 보았다.
 
-![https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/%EB%B0%95%EC%8A%A4%ED%94%8C%EB%A1%AF_%EB%8C%80%EB%A5%99%EB%B3%84%ED%96%89%EB%B3%B5%EB%8F%84%EB%B6%84%ED%8F%AC_%EC%A4%91%EC%95%99%EA%B0%92.png?raw=true)
+![대륙별 행복도](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/%EB%B0%95%EC%8A%A4%ED%94%8C%EB%A1%AF_%EB%8C%80%EB%A5%99%EB%B3%84%ED%96%89%EB%B3%B5%EB%8F%84%EB%B6%84%ED%8F%AC_%EC%A4%91%EC%95%99%EA%B0%92.png?raw=true)
 
 대륙별 행복도를 다른 방식으로 표현해 보았다.(2)
 
