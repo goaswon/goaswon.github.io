@@ -18,7 +18,7 @@
 
 1.  행복지수의 분포확인
 
-![happiness_score_hist](.\happiness_score_hist.png)
+![happiness_score_hist](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/happiness_score_hist.png?raw=true)
 
 2.  행복지수와 상관계수가 0.6 이상인 항목 확인
 
@@ -62,11 +62,11 @@ economy, family, health, social_support, crude_birth_rate 항목이 상관관계
 
 각각의 샘플의 분포도를 그려본다. NaN항목은 제외하고 그려본다.
 
-![distsamples01](./distsamples01.png)
+![distsamples01](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/distsamples01.png?raw=true)
 
 economy, family, health, social_support 4가지 샘플의 분포도
 
-![distsamples02.png](./distsamples02.png)
+![distsamples02.png](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/distsamples02.png?raw=true)
 
 crude_birth_rate(출산율)의 분포도
 
@@ -74,7 +74,7 @@ crude_birth_rate(출산율)의 분포도
 
 그래서 jointplot을 economy와 crude_birth_rate 두가지 샘플을 사용하여 그려보았다.
 
-![jointplot01.png](./jointplot01.png)
+![jointplot01.png](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/jointplot01.png?raw=true)
 
 Birth rate와 economy간에는 음의 상관관계가 있는것이 확인 된다.
 
@@ -84,15 +84,15 @@ Birth rate와 economy간에는 음의 상관관계가 있는것이 확인 된다
 
 
 
-![distsamples03.png](./distsamples03.png)
+![distsamples03.png](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/distsamples03.png?raw=true)
 
 대륙별 행복도가 정규분포를 따르는지를 확인해보고자 했다. 대륙별로 다양한 특징을 지닌것을 확인할 수 있었다.
 
-![scatterplot01.png](./scatterplot01.png)
+![scatterplot01.png](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/scatterplot01.png?raw=true)
 
 대륙별 행복도를 다른 방식으로 표현해 보았다.
 
-![scatterplot_대륙별행복도분포](https://bn1301files.storage.live.com/y4m7GWi2Dlc6rAMd0tbicTo60gTNr6Z09jZ8puUC0St1-uYLktDRVKPBKFTcRtuZ1IyRfgw4oQ8tcyc3w0pTn0DlYQXLPlmelGe15n4dKr-B48wX_SzQZfHzx8Tw6-2MBtDCA-090yiuggNGM5B9Mqvl91p1T3PqhXDrpRNVnVLwDsLJuYsiNh3uYiWBtHDqNGZ?width=879&height=661&cropmode=none)
+![https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/%EB%B0%95%EC%8A%A4%ED%94%8C%EB%A1%AF_%EB%8C%80%EB%A5%99%EB%B3%84%ED%96%89%EB%B3%B5%EB%8F%84%EB%B6%84%ED%8F%AC_%EC%A4%91%EC%95%99%EA%B0%92.png?raw=true)
 
 대륙별 행복도를 다른 방식으로 표현해 보았다.(2)
 
@@ -100,7 +100,7 @@ Birth rate와 economy간에는 음의 상관관계가 있는것이 확인 된다
 
 박스플롯으로 표현해보았다. 평균값과 중앙값
 
-![박스플롯_대륙별행복도분포_평균값](https://bn1301files.storage.live.com/y4mJUkc90FcFocwTLLweqTf4z1m2VvA6XMQ1dIzdw4aTNaa-8rPLG3FpfvPIhcmjA3SXkhiG2XCfXC-Gtc7EZMiJF1T34lemLnIQTpPPTIJzzIFc7J3nXGpRKrgZzkWStxLCXOCoGBESjPO8c7bCXsA_zRJj-VGzVesuvqqC3_GUx2PZ5Zb6QQYkNbS_jxLf74P?width=1612&height=1020&cropmode=none)
+![박스플롯_대륙별행복도분포_평균값](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/%EB%B0%95%EC%8A%A4%ED%94%8C%EB%A1%AF_%EB%8C%80%EB%A5%99%EB%B3%84%ED%96%89%EB%B3%B5%EB%8F%84%EB%B6%84%ED%8F%AC_%ED%8F%89%EA%B7%A0%EA%B0%92.png?raw=true)
 
 대륙별 차이가 명백히 있지만 거짓상관인듯하여 경제적인 요소로 layer를 다시 나누어서 평가해 보았다.
 
@@ -108,7 +108,7 @@ Birth rate와 economy간에는 음의 상관관계가 있는것이 확인 된다
 
 전 국가를 4가지의 소득계급으로 나누어 색깔별로 칠했을때의  pairplot
 
-![pairplot01.png](./pairplot.png)
+![pairplot.png](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/pairplot.png?raw=true)
 
 소득별 차이를 볼 수있다. 특히 IncomeGroup/happiness_score와 happiness_score/economy, crude_birth_rate/happiness_score를 주의깊게 보면 모두 직선적 상관관계가 강하게 보인다.
 
@@ -116,7 +116,7 @@ Birth rate와 economy간에는 음의 상관관계가 있는것이 확인 된다
 
 그래서 hapiness_score의 값 별로 색깔을 달리주어 보았다.
 
-![pairplot02.png](./pairplot02.png)
+![pairplot02.png](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/pairplot02.png?raw=true)
 
 몇몇 항목을 제외한 나머지 pairplot에서 비슷한 색깔끼리 뭉친것을 확인할 수 있었다.
 
@@ -130,6 +130,6 @@ Birth rate와 economy간에는 음의 상관관계가 있는것이 확인 된다
 
 knn 학습을 통한 건강지수에따른 행복역량지수 그래프화.
 
-![k-means](https://bn1301files.storage.live.com/y4mCqG83sHyoHWVrX3uzanzU6UbFTbQPGw2IL_Z7cgYQsaGYVlnsEuDs5vfjTFAgX-kKbhwF5m6ifioMI8-z73NZBjsPfTsSI-YhEO-2Orj9K-IOj67Fu4Goch4rb5vnELdfXCP1D9HUo1w1FUcxI50yRx0RBj8xSX4lfQq7oSNg_jDJfmEdmJ1kS620YKHDpAO?width=840&height=663&cropmode=none)
+![k-means](https://github.com/goaswon/goaswon.github.io/blob/gh-pages/img/k-means.png?raw=true)
 
 h_mean(건강지수)에 따른 hp2(행복역량지수)를 그래프화함.
