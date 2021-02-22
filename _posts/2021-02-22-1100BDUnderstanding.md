@@ -5,7 +5,8 @@ excerpt: ""
 categories:
   - 빅데이터 분석 기사
 tags:
-  - [빅데이터분석기사 1장, 빅데이터분석기사 Chapter1, 빅데이터의 이해]
+  - [빅데이터분석기사 1장, 빅데이터분석기사 Chapter1]
+  - 빅데이터의 이해
 
 toc: true
 toc_sticky: true
