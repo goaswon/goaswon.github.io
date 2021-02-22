@@ -5,7 +5,7 @@ excerpt: ""
 categories:
   - 빅데이터 분석 기사
 tags:
-  - [빅데이터분석기사 1장]
+  - 빅데이터분석기사 1장
 
 toc: true
 toc_sticky: true
