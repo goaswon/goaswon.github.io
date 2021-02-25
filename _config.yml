@@ -279,9 +279,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-plugins:
-  - jemoji
-  
-gems:
-- jemoji
